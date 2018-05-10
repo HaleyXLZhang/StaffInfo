@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\GitHub\StaffInfo\StaffInfo\bin\Debug\StaffInfo.dll
+C:\Users\Administrator\Documents\GitHub\StaffInfo\StaffInfo\bin\Debug\StaffInfo.pdb
+C:\Users\Administrator\Documents\GitHub\StaffInfo\StaffInfo\obj\Debug\StaffInfo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\StaffInfo\StaffInfo\obj\Debug\StaffInfo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\StaffInfo\StaffInfo\obj\Debug\StaffInfo.dll
+C:\Users\Administrator\Documents\GitHub\StaffInfo\StaffInfo\obj\Debug\StaffInfo.pdb

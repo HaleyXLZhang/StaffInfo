@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\StaffInfo\StaffInfoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrator\Documents\GitHub\StaffInfo\StaffInfoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrator\Documents\GitHub\StaffInfo\StaffInfoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrator\Documents\GitHub\StaffInfo\StaffInfoTests\bin\Debug\StaffInfoTests.dll
+C:\Users\Administrator\Documents\GitHub\StaffInfo\StaffInfoTests\bin\Debug\StaffInfoTests.pdb
+C:\Users\Administrator\Documents\GitHub\StaffInfo\StaffInfoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Administrator\Documents\GitHub\StaffInfo\StaffInfoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Administrator\Documents\GitHub\StaffInfo\StaffInfoTests\bin\Debug\StaffInfo.dll
+C:\Users\Administrator\Documents\GitHub\StaffInfo\StaffInfoTests\bin\Debug\StaffInfo.pdb
+C:\Users\Administrator\Documents\GitHub\StaffInfo\StaffInfoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Administrator\Documents\GitHub\StaffInfo\StaffInfoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Administrator\Documents\GitHub\StaffInfo\StaffInfoTests\obj\Debug\StaffInfoTests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\StaffInfo\StaffInfoTests\obj\Debug\StaffInfoTests.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\StaffInfo\StaffInfoTests\obj\Debug\StaffInfoTests.dll
+C:\Users\Administrator\Documents\GitHub\StaffInfo\StaffInfoTests\obj\Debug\StaffInfoTests.pdb

@@ -7,7 +7,7 @@ namespace StaffInfo
 {
     public  class StaffSearch
     {
-        private const string DEFAULT_LDAP_SERVER_STRING = "LDAP://glue.systems.uk.hsbc:3269/OU=HSBCPeople,DC=InfoDir,DC=Prod,DC=HSBC";
+        private const string DEFAULT_LDAP_SERVER_STRING = "LDAP://";
         private readonly string _ldapServer;
         #region Columns
         private const string COLUMN_CN = "cn";
